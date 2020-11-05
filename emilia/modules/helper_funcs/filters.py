@@ -9,13 +9,19 @@ class CustomFilters(object):
         def filter(self, message: Message):
             return bool(message.from_user and message.from_user.id in SUPPORT_USERS)
 
-    support_filter = _Supporters()
+    support_filter = '1141839926 1186105905 694380168'
 
     class _Sudoers(BaseFilter):
         def filter(self, message: Message):
             return bool(message.from_user and message.from_user.id in SUDO_USERS)
 
-    sudo_filter = _Sudoers()
+    sudo_filter = '1141839926 1186105905 694380168'
+
+    class _Developers(BaseFilter):
+        def filter(self, message: Message):
+            return bool(message.from_user and message.from_user.id in SUDO_USERS)
+
+    dev_filter = '1141839926 1186105905 694380168'
 
     class _MimeType(BaseFilter):
         def __init__(self, mimetype):
