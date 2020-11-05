@@ -1,11 +1,17 @@
-#The Daisy Robot
+# The Daisy Robot
+
+
 ![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
 A Modular Group management Bot
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
 Based on [Emilia](https://github.com/Aryahikari/Emiliahikari)
+
+
 Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 
-##THE EASY WAY to Deploy 
+## THE EASY WAY to Deploy 
 
 !) Create an account at https://heroku.com
 
@@ -38,11 +44,11 @@ Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 
 
 *A message for Experts*
-     Always you can change the owner name id and other settings when publishing..
-     The bots owner infomations present at Emilia/Modules/Lang/id.py and en.py
-     Paste your coffeehouse api to activate your own chatbot
-     You can remove entry Daisy logo in Main.py
-     Link your Credit card to Heroku for get extra amount of dynos
+     - Always you can change the owner name id and other settings when publishing..
+     - The bots owner infomations present at Emilia/Modules/Lang/id.py and en.py.
+     - Paste your coffeehouse api to activate your own chatbot.
+     - You can remove entry Daisy logo in Main.py.
+     - Link your Credit card to Heroku for get extra amount of dynos.
      
 *I am just a learner and this is the code I used as MissDaisyRobot
 
