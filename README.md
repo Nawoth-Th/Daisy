@@ -237,7 +237,7 @@ through the `/stats` command, which is only available to the bot owner.
 ## Special Credits
 
 Thanks to this user:
-- [Arya Hikari](https://github.com/Aryahikari)
+- [Arya Hikari](https://github.com/Aryahikari) - The Emilia Bot Owner
 - [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
 - [Yan Gorobtsov](https://github.com/MrYacha) - for welcome security base and connection base and maybe others
 - [アキト ミズキト](https://github.com/peaktogoo) - for reworked federation module
