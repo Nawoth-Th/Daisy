@@ -1,25 +1,54 @@
-# Emilia
-A modular telegram Python bot running on python3 with an sqlalchemy database.
+#The Daisy Robot
+![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
+A Modular Group management Bot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+Based on [Emilia](https://github.com/Aryahikari/Emiliahikari)
+Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 
-Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
+##THE EASY WAY to Deploy 
 
-### [Read indonesia README](https://github.com/AyraHikari/EmiliaHikari/blob/master/README.id.md)
+!) Create an account at https://heroku.com
 
-**If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
+2) Create a new bot from @botfather and copy its api token
+![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
 
-Can be found as [Emilia](https://t.me/EmiliaHikariBot).
+
+3) Click Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+
+3) Give an app name
+![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
+
+3) Paste the Api token copied at token space
+![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
+
+4) Enter url of the app ass https://#Appneme.herokuapp.com
+![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
+
+5)Then Deploy
+
+6) After Deploy over click manage app
+
+7) Goto Resources and Turn Worker Emilia to on (by clicking edit)
+![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
+
+8) Goto Logs and check for the errors
+![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
 
 
-For questions regarding creating your own bot, please head to [support group](https://t.me/EmiliaOfficial) where you'll find a
-group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
-modified/added (this info can also be found in the commit messages)
+*A message for Experts*
+     Always you can change the owner name id and other settings when publishing..
+     The bots owner infomations present at Emilia/Modules/Lang/id.py and en.py
+     Paste your coffeehouse api to activate your own chatbot
+     You can remove entry Daisy logo in Main.py
+     Link your Credit card to Heroku for get extra amount of dynos
+     
+*I am just a learner and this is the code I used as MissDaisyRobot
 
-Join the [news channel](https://t.me/AyraBotNews) if you just want to stay in the loop about new features or
-announcements.
+<details>
+<summary>-THE HARD WAY of deploying -</summary>
 
-Or [ask me in telegram](https://t.me/AyraHikari)! (Save all support questions in the support chat, where more people can help you.)
-
-Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
 
 ## Starting the bot.
@@ -178,7 +207,7 @@ it is necessary to migrate it in the db.
 
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot owner.
-
+</details>
 
 ## Special Credits
 
