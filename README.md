@@ -2,10 +2,12 @@
 
 
 ![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
-A Modular Group management Bot
+
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+
+A Modular Group management Bot
 Based on [Emilia](https://github.com/Aryahikari/Emiliahikari)
 
 
@@ -16,8 +18,12 @@ Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 ### Follow the methord carefully
 ```
 1) Create an account at https://heroku.com
+
+```
 ```
 2) Create a new bot from @botfather and copy its api token
+
+```
 ![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
 
 ```
@@ -26,14 +32,17 @@ Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
 ```
 3) Give an app name
+
 ```
 ![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
 ```
 3) Paste the Api token copied at token space
+
 ```
 ![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
 ```
 4) Enter url of the app ass https://#Appneme.herokuapp.com
+
 ```
 ![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
 ```
@@ -43,6 +52,7 @@ Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 ```
 ```
 7) Goto Resources and Turn Worker Emilia to on (by clicking edit)
+
 ```
 ![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
 ```
