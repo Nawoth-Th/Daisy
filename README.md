@@ -13,7 +13,9 @@ Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 
 ## THE EASY WAY to Deploy 
 
-!) Create an account at https://heroku.com
+### Follow the methord carefully
+```
+1) Create an account at https://heroku.com
 
 2) Create a new bot from @botfather and copy its api token
 ![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
@@ -41,6 +43,7 @@ Special thanks to [Arya Hikari](https://github.com/Aryahikari)
 
 8) Goto Logs and check for the errors
 ![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
+```
 
 
 *A message for Experts*
